@@ -21,11 +21,11 @@ Building at the intersection of engineering, software development, data, and eme
 
 ## Profile
 
-I am an Electrical Engineering undergraduate at the University of the Punjab, developing a strong foundation in programming, software development, data analysis, and engineering applications.
+I am an Electrical Engineering undergraduate at the University of the Punjab, developing a strong foundation in programming, software development, data analytics, and engineering applications.
 
-My work combines engineering concepts with software and practical data-driven solutions. I am particularly interested in how software and AI can be applied to engineering and real-world problems.
+My work combines engineering knowledge with software and data-driven problem solving. I enjoy building practical projects, analysing real-world data, and applying computational tools to technical problems.
 
-I learn through implementation — building projects, analysing data, solving programming problems, and continuously strengthening my technical foundations.
+My long-term direction is to combine electrical engineering with software and AI to develop practical solutions for engineering and real-world applications.
 
 ---
 
@@ -40,6 +40,7 @@ I learn through implementation — building projects, analysing data, solving pr
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 </td>
@@ -73,36 +74,14 @@ I learn through implementation — building projects, analysing data, solving pr
 
 <td width="50%" valign="top">
 
-### Engineering Software
+### Engineering & Technical Tools
 
 <p>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
   <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Technical Tools
-
-<p>
   <img src="https://img.shields.io/badge/Proteus-1A73E8?style=for-the-badge&logoColor=white" alt="Proteus">
   <img src="https://img.shields.io/badge/Multisim-FF6F00?style=for-the-badge&logoColor=white" alt="Multisim">
   <img src="https://img.shields.io/badge/Logisim_Evolution-333333?style=for-the-badge&logoColor=white" alt="Logisim Evolution">
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Development Practices
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
 </td>
@@ -124,68 +103,24 @@ Developed data-driven solutions for machine efficiency and energy analysis, alon
 
 ---
 
+## Currently Learning
+
+My current learning is focused on strengthening the foundations required for more advanced software, data, and AI work.
+
+- Advanced Python
+- Data Structures & Algorithms
+- NumPy & Pandas
+- Data analysis workflows
+- Machine Learning fundamentals
+- AI engineering foundations
+
+---
+
 ## Education
 
 **BS Electrical Engineering**  
 University of the Punjab, Lahore  
 **2024 — 2028**
-
----
-
-## Current Development
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Software
-
-- Python
-- C++
-- Data Structures & Algorithms
-- Programming fundamentals
-- Web development
-
-</td>
-
-<td width="50%" valign="top">
-
-### Data
-
-- Excel
-- Power Query
-- Power BI
-- Engineering data analysis
-- Dashboard development
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### AI Foundations
-
-Currently building toward:
-
-- Machine Learning
-- AI fundamentals
-- Intelligent applications
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering
-
-- Electrical engineering
-- Engineering analysis
-- Industrial applications
-- Technical problem solving
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -195,19 +130,19 @@ Currently building toward:
 
 ### AI Engineering & Engineering Solutions
 
-**Intersecting Electrical Engineering × Software × Data × AI**
+**Electrical Engineering × Software × Data × AI**
 
-Building toward practical AI-driven solutions for engineering and real-world applications.
+Building toward the development of practical AI and software solutions for engineering and real-world problems.
 
 </div>
 
 ---
 
-## Selected Work
+## Projects & Work
 
-My repositories document my progression across programming, software development, engineering analysis, and data-driven applications.
+My repositories document my progression through programming, software development, engineering analysis, and data-driven applications.
 
-For projects, experience, and a broader overview of my work:
+For a broader overview of my projects, experience, and technical work:
 
 <div align="center">
 
