@@ -2,9 +2,9 @@
 
 # Abubakar Kashif
 
-### Electrical Engineering Student · Software Engineering · Data · AI
+### Electrical Engineering × Software × AI
 
-Building from engineering fundamentals toward intelligent software systems.
+Building at the intersection of engineering, software development, data, and emerging AI technologies.
 
 <p>
   <a href="https://abk-portfolio.vercel.app/">
@@ -24,15 +24,15 @@ Building from engineering fundamentals toward intelligent software systems.
 
 ## Profile
 
-I am an Electrical Engineering undergraduate at the University of the Punjab developing a strong foundation in programming, software development, data analysis, and engineering applications.
+I am an Electrical Engineering undergraduate at the University of the Punjab, developing a strong foundation in software development, data analysis, and computational problem-solving alongside my engineering studies.
 
-My work currently sits at the intersection of engineering, software, and data, with a long-term direction toward AI and intelligent systems.
+My work combines engineering concepts with programming and practical software projects. I am particularly interested in how software and AI can be applied to engineering and real-world problems.
 
-I learn through practical implementation — building projects, working with real engineering data, and continuously strengthening my programming and problem-solving fundamentals.
+I learn primarily through implementation — building projects, analysing real data, experimenting with software technologies, and continuously strengthening my technical fundamentals.
 
 ---
 
-## Technical Foundation
+## Technical Skills
 
 ### Programming
 
@@ -80,63 +80,48 @@ Lahore, Pakistan · **June 2026 — July 2026**
 
 Gained practical exposure to industrial switchgear manufacturing and production operations, working with engineering data, machine efficiency, energy consumption, production performance, and analytical reporting.
 
-Developed data-driven solutions for machine efficiency and energy analysis, along with a panel welding shop man-hour calculation system, connecting engineering operations with structured data analysis.
+Developed data-driven solutions for machine efficiency and energy analysis, along with a panel welding shop man-hour calculation system.
 
 ---
 
-## Current Focus
+## Areas of Development
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Software Engineering
-
-Strengthening:
+### Software
 
 - Python
 - C++
 - Data Structures & Algorithms
 - Programming fundamentals
-- Software development practices
+- Software development
+- Web development
 
 </td>
-<td width="50%" valign="top">
 
-### Data & Analytics
+<td width="33%" valign="top">
 
-Developing experience with:
+### Data
 
-- Excel
+- Microsoft Excel
 - Power Query
 - Power BI
-- Engineering data analysis
-- Dashboards and reporting
+- Data analysis
+- Engineering analytics
+- Dashboard development
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Web Development
+### AI
 
-Building practical experience with:
-
-- HTML
-- CSS
-- React
-- Modern frontend development
-
-</td>
-<td width="50%" valign="top">
-
-### Future Direction
-
-Building the foundation for:
+Building foundations toward:
 
 - Machine Learning
-- AI systems
+- AI fundamentals
 - Intelligent applications
 - AI-driven engineering solutions
 
@@ -154,13 +139,31 @@ University of the Punjab, Lahore
 
 ---
 
-## Career Direction
+## Current Direction
 
-My long-term objective is to combine my engineering background with software and AI to develop systems that solve practical engineering and real-world problems.
+My technical development is centered around three connected areas:
 
 <div align="center">
 
-### Engineering → Software → Data → AI
+### Electrical Engineering × Software × AI
+
+</div>
+
+I am building software and data skills alongside my engineering education, with the long-term goal of applying AI and computational methods to practical engineering and real-world problems.
+
+---
+
+## Selected Work
+
+My repositories reflect my progression through programming, software development, engineering analysis, and data-driven applications.
+
+For a broader view of my projects, experience, and technical work:
+
+<div align="center">
+
+<a href="https://abk-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio">
+</a>
 
 </div>
 
@@ -188,6 +191,6 @@ My long-term objective is to combine my engineering background with software and
 
 <div align="center">
 
-<sub>Building strong foundations today for intelligent systems tomorrow.</sub>
+<sub>Engineering foundations. Software development. Emerging AI.</sub>
 
 </div>
