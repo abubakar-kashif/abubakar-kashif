@@ -4,7 +4,7 @@
 
 ### Electrical Engineering × Software × AI
 
-Building at the intersection of engineering, software development, data, and emerging AI technologies.
+Building practical software and data-driven solutions from an engineering foundation.
 
 <p>
   <a href="https://abk-portfolio.vercel.app/">
@@ -21,11 +21,11 @@ Building at the intersection of engineering, software development, data, and eme
 
 ## Profile
 
-I am an Electrical Engineering undergraduate at the University of the Punjab, developing a strong foundation in programming, software development, data analytics, and engineering applications.
+I am an Electrical Engineering undergraduate at the University of the Punjab, building a strong foundation in programming, software development, data analytics, and engineering applications.
 
-My work combines engineering knowledge with software and data-driven problem solving. I enjoy building practical projects, analysing real-world data, and applying computational tools to technical problems.
+My work combines engineering knowledge with software and data-driven problem solving. I learn through practical implementation, building projects and applying computational tools to technical and real-world problems.
 
-My long-term direction is to combine electrical engineering with software and AI to develop practical solutions for engineering and real-world applications.
+My long-term direction is to combine electrical engineering with software and AI to develop practical intelligent solutions for engineering and real-world applications.
 
 ---
 
@@ -105,7 +105,7 @@ Developed data-driven solutions for machine efficiency and energy analysis, alon
 
 ## Currently Learning
 
-Continuously strengthening the foundations required for advanced software, data, and AI work.
+Strengthening the foundations required for advanced software, data, and AI work.
 
 - Advanced Python
 - Data Structures & Algorithms
@@ -120,7 +120,7 @@ Continuously strengthening the foundations required for advanced software, data,
 
 **BS Electrical Engineering**  
 University of the Punjab, Lahore  
-**2024 — 2028**
+**CGPA: 3.79 / 4.00** · **2024 — 2028**
 
 ---
 
