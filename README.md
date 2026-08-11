@@ -77,7 +77,6 @@ I learn through implementation — building projects, analysing data, solving pr
 
 <p>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink">
   <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
 </p>
 
