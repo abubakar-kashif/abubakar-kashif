@@ -38,9 +38,9 @@ My long-term direction is to combine electrical engineering with software and AI
 ### Programming
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 </td>
@@ -50,10 +50,10 @@ My long-term direction is to combine electrical engineering with software and AI
 ### Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 </p>
 
 </td>
@@ -65,9 +65,9 @@ My long-term direction is to combine electrical engineering with software and AI
 ### Data & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoftpowerquery&logoColor=white" alt="Power Query">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoftpowerquery&logoColor=white" alt="Power Query">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
 
 </td>
@@ -77,11 +77,11 @@ My long-term direction is to combine electrical engineering with software and AI
 ### Engineering & Technical Tools
 
 <p>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
-  <img src="https://img.shields.io/badge/Proteus-1A73E8?style=for-the-badge&logoColor=white" alt="Proteus">
-  <img src="https://img.shields.io/badge/Multisim-FF6F00?style=for-the-badge&logoColor=white" alt="Multisim">
-  <img src="https://img.shields.io/badge/Logisim_Evolution-333333?style=for-the-badge&logoColor=white" alt="Logisim Evolution">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
+<img src="https://img.shields.io/badge/Proteus-1A73E8?style=for-the-badge&logoColor=white" alt="Proteus">
+<img src="https://img.shields.io/badge/Multisim-FF6F00?style=for-the-badge&logoColor=white" alt="Multisim">
+<img src="https://img.shields.io/badge/Logisim_Evolution-333333?style=for-the-badge&logoColor=white" alt="Logisim Evolution">
 </p>
 
 </td>
@@ -105,7 +105,7 @@ Developed data-driven solutions for machine efficiency and energy analysis, alon
 
 ## Currently Learning
 
-My current learning is focused on strengthening the foundations required for more advanced software, data, and AI work.
+Continuously strengthening the foundations required for advanced software, data, and AI work.
 
 - Advanced Python
 - Data Structures & Algorithms
@@ -132,7 +132,7 @@ University of the Punjab, Lahore
 
 **Electrical Engineering × Software × Data × AI**
 
-Building toward the development of practical AI and software solutions for engineering and real-world problems.
+Building toward practical software and AI solutions for engineering and real-world problems.
 
 </div>
 
@@ -140,32 +140,34 @@ Building toward the development of practical AI and software solutions for engin
 
 ## Projects & Work
 
-My repositories document my progression through programming, software development, engineering analysis, and data-driven applications.
+My repositories document my progression across programming, software development, engineering analysis, and data-driven applications.
 
 For a broader overview of my projects, experience, and technical work:
 
 <div align="center">
 
 <a href="https://abk-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Portfolio">
+<img src="https://img.shields.io/badge/Explore_My_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Portfolio">
 </a>
 
 </div>
 
 ---
 
+## Connect
+
 <div align="center">
 
 <a href="https://abk-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://linkedin.com/in/abubakar-kashif">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
 
-<sub>Engineering × Software × AI</sub>
+<sub>Electrical Engineering × Software × AI</sub>
 
 </div>
